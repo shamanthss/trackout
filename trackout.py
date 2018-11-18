@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-#Name          : Trackout
+#Name          : trackout
 #Writer(s)     : Shamanth
 #Description   : TrackOut is a simple IP Tracker using Python Developed by Shamanth.
 
