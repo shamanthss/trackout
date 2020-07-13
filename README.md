@@ -15,12 +15,12 @@ python trackout.py
 ### INSTALL
 '''''''''''''
 
-git clone github.com/shamanthsamadeshi/trackout
+git clone http://github.com/shamanthss/trackout
 
 cd trackout
 
 python trackout.py
 
 
-THANKS FOR INSTALLING CHECK MY GITHUB 
-https://github.com/shamanthsamadeshi
+THANKS FOR INSTALLING CHECK MY GITHUB FRO MORE TOOLS 
+https://github.com/shamanthss
