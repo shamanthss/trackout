@@ -1,8 +1,8 @@
 #!/usr/bin/python
 
 #Name          : trackout
-#Writer(s)     : Shamanth
-#Description   : TrackOut is a simple IP Tracker using Python Developed by Shamanth.
+#Writer(s)     : Shamanth S Samadeshi
+#Description   : TrackOut is a simple IP Tracker written in Python using API from https://ipdata.com
 
 import os
 import urllib2
@@ -12,12 +12,13 @@ colorama.init(autoreset=True)
 
 os.system("clear");
 print"""
-  _____                _      ___       _   
- /__   \_ __ __ _  ___| | __ /___\_   _| |_ 
-   / /\/ '__/ _` |/ __| |/ ///  // | | | __|
-  / /  | | | (_| | (__|   </ \_//| |_| | |_ 
-  \/   |_|  \__,_|\___|_|\_\___/  \__,_|\__|                                           
-  Python IP Tracker - Dev - Shamanth 
+  _______             _     ____        _   
+ |__   __|           | |   / __ \      | |  
+    | |_ __ __ _  ___| | _| |  | |_   _| |_ 
+    | | '__/ _` |/ __| |/ / |  | | | | | __|
+    | | | | (_| | (__|   <| |__| | |_| | |_ 
+    |_|_|  \__,_|\___|_|\_\\____/ \__,_|\__|
+ Python IP Tracker - Dev - Shamanth S Samadeshi
 """
 print "\r"
 while True:
